@@ -1,12 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- edited with XMLSpy v2019 rel. 3 sp1 (x64) (http://www.altova.com) by Toby Considine (TC9) -->
 <!--
+	 Schemas for the Common Transactive Services (CTS)
+	 
+	 Copyright (c) 2019 The Energy Mashup Lab
+	 - Toby Considine, TC9, Inc
+	 - William T Cox, Cox Software Architects LLC 
+
+	 Copyright (c) OASIS Open 2016 - see full notice below
+-->
+<!--
 	 Schemas for the Common Transactive Services
 	 
-	 Profiled to use Minimal PIM Conformant WS-Calendar, WS-Calendar Streams, Strip GML
+	 Profiled to use Minimal PIM Conformant WS-Calendar, WS-Calendar Streams, Strip GML, delete
+		Reports
+		Interval
+		Tolerance
+		Recurrence frequency
+		PayloadType
+		RecurrenceID
 		
-	 Imported to GitHub for Project purposes.
+	 Imported to GitHub for The Energy Mashup Lab
+	 Schema agency:     The Energy Mashup Lab
+	 Schema version:    0.4
+	 Schema date:       5 October 2019
 -->
+
+
 <!-- 
 WS-Calendar Minimal PIM-Conformant Schema Version 1.0 Committee Specification 01 26 September 2016 
 Copyright (c) OASIS Open 2016. All Rights Reserved. 
